@@ -1,6 +1,6 @@
 # todo-cli
 
 ## Overview
-Command line task manager
+Command line task manager app
 
 
